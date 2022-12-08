@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Vast+Shadow');
+@import url('https://fonts.googleapis.com/css?family=VT323');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+html, body {
+    margin: 25px;
+    padding: 25px;
+    height: 100%;
+    width: 100%;
+    background-color: #414345;
+}
+
+.logo{
+    font-family: 'Vast Shadow';
+    font-size: 55px;
+    color: #f2a900;
+}
+
+.ctext{
+    font-family: 'Montserrat';
+    font-size: 20px;
+    color:rgb(74, 179, 111)
+}
