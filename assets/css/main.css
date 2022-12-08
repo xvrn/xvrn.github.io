@@ -8,17 +8,17 @@ html, body {
     padding: 25px;
     height: 80%;
     width: 80%;
-    background-color: #414345;
+    background-color: #302b57;
 }
 
 .logo{
     font-family: 'Vast Shadow';
-    font-size: 55px;
+    font-size: 60px;
     color: #f2a900;
 }
 
 .ctext{
-    font-family: 'Montserrat';
-    font-size: 20px;
-    color:rgb(74, 179, 111)
+    font-family: 'VT323';
+    font-size: 30px;
+    color: whitesmoke
 }
