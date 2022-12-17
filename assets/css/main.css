@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Vast+Shadow');
 @import url('https://fonts.googleapis.com/css?family=VT323');
 @import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Yatra+One');
 
 
 html, body {
@@ -25,6 +26,10 @@ footer{
     justify-content: center;
 }
 
+.unset{
+    all: unset;
+}
+
 
 .ctext{
     font-family: 'VT323';
@@ -35,6 +40,12 @@ footer{
 .defaultText{
     font-family: 'Poppins';
     font-size: 14px;
+    color: whitesmoke
+}
+
+.linksText{
+    font-family: 'Poppins';
+    font-size: 16px;
     color: whitesmoke
 }
 
