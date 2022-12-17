@@ -15,6 +15,7 @@ html, body {
     font-family: 'Vast Shadow';
     font-size: 60px;
     color: #f2a900;
+    text-decoration: none;
 }
 
 .ctext{
@@ -22,3 +23,4 @@ html, body {
     font-size: 30px;
     color: whitesmoke
 }
+

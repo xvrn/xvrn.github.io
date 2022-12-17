@@ -1,3 +1,5 @@
+<div class='ctext'>
+
 #### About Bitcoin:
 - Bitcoin is sound money because of it's deterministic issuance and fixed supply without any single point of failure(third-parties)
 - Other cryptocurrencies are often centralized and hardly those nodes run in a p2p manner, the harder better money always drives out other easier monies
@@ -20,3 +22,5 @@
 - Making it more secure and private
 - Making it harder to attack from network security perspective
 - Advancement of off-chain protocols like lightning network to enable instant payments
+
+</div>
