@@ -1,8 +1,3 @@
----
-permalink: /thesis/
----
-
-
 <div class='defaultText'>
 
 About Bitcoin:
